@@ -1,0 +1,260 @@
+wwwroot\css\bottom.css
+wwwroot\css\contact.css
+wwwroot\css\contests.css
+wwwroot\css\home.css
+wwwroot\css\login.css
+wwwroot\css\mentors.css
+wwwroot\css\navbar.css
+wwwroot\css\page.css
+wwwroot\css\pass.css
+wwwroot\css\quiz.css
+wwwroot\css\quize1.css
+wwwroot\css\quizzes.css
+wwwroot\css\settings.css
+wwwroot\css\trainingPlanL1.css
+wwwroot\favicon.ico
+wwwroot\files\#5-Functions.pdf
+wwwroot\files\#6-Maths.pdf
+wwwroot\files\1 - DataType and Conditions.pdf
+wwwroot\files\1-Data-type && conditions.pdf
+wwwroot\files\2-Loops.pdf
+wwwroot\files\3-Array.pdf
+wwwroot\files\3-Arrays 1.pptx.pdf
+wwwroot\files\4-Arrays 2.pptx.pdf
+wwwroot\files\4-Strings.pdf
+wwwroot\files\5 - String.pdf
+wwwroot\files\6 - Functions.pdf
+wwwroot\files\7 - Math.pdf
+wwwroot\files\Loops.pdf
+wwwroot\files\phase1 prefixsum & freq.pptx
+wwwroot\files\phase1 STL.pptx
+wwwroot\files\Week  2 Blog.pdf
+wwwroot\files\Week 1  Blog.pdf
+wwwroot\files\Week 3 Blog.pdf
+wwwroot\files\Week 4 Blog.pdf
+wwwroot\img\_رياكشن_رياكشنات_رياكشنات_مضحكه_رياكشنز_رياكشنااااات_رياكشنات_كيبوب.mp3
+wwwroot\img\464934047_122114503466550950_8022589615150367090_n.jpg
+wwwroot\img\ᴀᴘᴘʟᴇ ᴍᴀᴘs.jpeg
+wwwroot\img\f097fc74-fc57-4b6a-b0a2-652a202a93bb.jpeg
+wwwroot\img\Googl.jpg
+wwwroot\img\Icon google.jpeg
+wwwroot\img\icpc 2.jpeg
+wwwroot\img\ICPC.jpeg
+wwwroot\img\Kareem Khaled.jpg
+wwwroot\img\L2 week1 v1.jpg
+wwwroot\img\L2 week1 v2.jpg
+wwwroot\img\L2 week1 v3.jpg
+wwwroot\img\L2 week1 v4.jpg
+wwwroot\img\L2 week1 v5.jpg
+wwwroot\img\L2 week1 v6.jpg
+wwwroot\img\L2 week1 v7.jpg
+wwwroot\img\L2 week1 v8.jpg
+wwwroot\img\L2 week1 v9.jpg
+wwwroot\img\L2 week2 v1.jpg
+wwwroot\img\L2 week2 v2.jpg
+wwwroot\img\L2 week2 v3.jpg
+wwwroot\img\L2 week2 v4.jpg
+wwwroot\img\L2 week2 v5.jpg
+wwwroot\img\L2 week2 v6.jpg
+wwwroot\img\L2 week2 v7.jpg
+wwwroot\img\L2 week3 v1.jpg
+wwwroot\img\L2 week3 v2.jpg
+wwwroot\img\L2 week3 v3.jpg
+wwwroot\img\L2 week3 v4.jpg
+wwwroot\img\L2 week3 v5.jpg
+wwwroot\img\L2 week3 v6.jpg
+wwwroot\img\L2 week3 v7.jpg
+wwwroot\img\L2 week3 v8.jpg
+wwwroot\img\L2 week4 v1.jpg
+wwwroot\img\L2 week4 v2.jpg
+wwwroot\img\L2 week4 v3.jpg
+wwwroot\img\L2 week4 v4.jpg
+wwwroot\img\L2 week4 v5.jpg
+wwwroot\img\L2 week4 v6.jpg
+wwwroot\img\L2 week5 v1.jpg
+wwwroot\img\L2 week5 v2.jpg
+wwwroot\img\L2 week5 v3.jpg
+wwwroot\img\L2 week5 v4.jpg
+wwwroot\img\L2 week5 v5.jpg
+wwwroot\img\L2 week6 v1.jpg
+wwwroot\img\L2 week6 v2.jpg
+wwwroot\img\L2 week6 v3.jpg
+wwwroot\img\L2 week6 v4.jpg
+wwwroot\img\L2 week6 v5.jpg
+wwwroot\img\L2 week6 v6.jpg
+wwwroot\img\L2 week6 v7.jpg
+wwwroot\img\logo.png
+wwwroot\img\logo_and_bottom_text.png
+wwwroot\img\logo_without_background.png
+wwwroot\img\logout.jpg
+wwwroot\img\Mohamed Anany.jpg
+wwwroot\img\Pop2.jpg
+wwwroot\img\pop3.jpg
+wwwroot\img\pop4.jpg
+wwwroot\img\pop-4.jpg
+wwwroot\img\pop-6.jpeg
+wwwroot\img\pop6.jpg
+wwwroot\img\pop7.JPG
+wwwroot\img\safy.jpeg
+wwwroot\img\sec.jpg
+wwwroot\img\sec-1.jpg
+wwwroot\img\sec2.jpg
+wwwroot\img\sec2-2.jpg
+wwwroot\img\sec-3.jpg
+wwwroot\img\sec-4.jpg
+wwwroot\img\sec5.jpg
+wwwroot\img\sec-6.jpg
+wwwroot\img\user.jpg
+wwwroot\img\wave.svg
+wwwroot\img\week 2 vid 1.jpg
+wwwroot\img\week 2 vid 2.jpg
+wwwroot\img\week 4 vid 1.jpg
+wwwroot\img\week 4 vid 2.jpg
+wwwroot\img\week 5 (1).jpg
+wwwroot\img\week 5 (2).jpg
+wwwroot\img\week 5 (3).jpg
+wwwroot\img\week1 vid1.jpg
+wwwroot\img\week1 vid10.jpg
+wwwroot\img\week1 vid11.jpg
+wwwroot\img\week1 vid2.jpg
+wwwroot\img\week1 vid3.jpg
+wwwroot\img\week1 vid4.jpg
+wwwroot\img\week1 vid5.jpg
+wwwroot\img\week1 vid6.jpg
+wwwroot\img\week1 vid7.jpg
+wwwroot\img\week1 vid8.jpg
+wwwroot\img\week1 vid9.jpg
+wwwroot\img\week3 vid 1.jpg
+wwwroot\img\week3 vid 2.jpg
+wwwroot\img\week3 vid 3.jpg
+wwwroot\img\week3 vid 4.jpg
+wwwroot\img\week3 vid 5.jpg
+wwwroot\img\week3 vid 6.jpg
+wwwroot\img\week3 vid 7.jpg
+wwwroot\img\week6 (1).jpg
+wwwroot\img\week6 (2).jpg
+wwwroot\img\week6 (3).jpg
+wwwroot\img\week6 (4).jpg
+wwwroot\img\week6 (5).jpg
+wwwroot\img\welcome.jpg
+wwwroot\img\White phone app icon.jpeg
+wwwroot\img\انت ايه اللي جابك هنا.wav
+wwwroot\img\حسين ابراهيم.jpg
+wwwroot\img\ربنا يريح قلبك زى ما ريحت قلبى.wav
+wwwroot\img\رياكشن_اللهم_صل_على_النبي_انت_جبت_ذي_المعلومات_من_وينMP3.mp3
+wwwroot\img\عايزة ايه .wav
+wwwroot\img\محمد عبد الوهاب.png
+wwwroot\img\محمود شحود.jpg
+wwwroot\img\مسمعتش.wav
+wwwroot\img\مع ألف سلامة.wav
+wwwroot\img\هجرس وفزاع.wav
+wwwroot\img\وحيتاة سيدك اللبلوبى(MP3) Music.wav
+wwwroot\img\ي لهوى ايه اللى جابك تانى.wav
+wwwroot\js\app.js
+wwwroot\js\home.js
+wwwroot\js\login.js
+wwwroot\js\page.js
+wwwroot\js\quize1.js
+wwwroot\js\quize10.js
+wwwroot\js\quize11.js
+wwwroot\js\quize12.js
+wwwroot\js\quize2.js
+wwwroot\js\quize3.js
+wwwroot\js\quize4.js
+wwwroot\js\quize5.js
+wwwroot\js\quize6.js
+wwwroot\js\quize7.js
+wwwroot\js\quize8.js
+wwwroot\js\quize9.js
+wwwroot\js\quizel2-1.js
+wwwroot\js\quizel2-10.js
+wwwroot\js\quizel2-11.js
+wwwroot\js\quizel2-12.js
+wwwroot\js\quizel2-2.js
+wwwroot\js\quizel2-3.js
+wwwroot\js\quizel2-4.js
+wwwroot\js\quizel2-5.js
+wwwroot\js\quizel2-6.js
+wwwroot\js\quizel2-7.js
+wwwroot\js\quizel2-8.js
+wwwroot\js\quizel2-9.js
+wwwroot\js\quizzes.js
+wwwroot\js\trainingPlanL1.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\uploads\avatars\169364a8-1500-43b9-a6da-f7494931e752.png
+wwwroot\uploads\avatars\29892580-e09c-4106-9897-1646be3d8e01.png
+wwwroot\uploads\avatars\2dac362d-d655-4e1a-a6d3-a52a5f186962.png
+wwwroot\uploads\avatars\3bd7f166-fb50-467d-a563-b6d2362372c8.png
+wwwroot\uploads\avatars\42127a20-95e9-45e8-8495-9d5907fb395e.png
+wwwroot\uploads\avatars\739ef98b-854a-439e-ac16-95b58ad0ad44.png
+wwwroot\uploads\avatars\7c135663-afb7-401c-8935-3c589e8b3b24.png
+wwwroot\uploads\avatars\829f7d97-957e-4c32-80f7-656f4c32cb41.jpg
+wwwroot\uploads\avatars\8451c7af-13d9-41de-b138-3e36deb6e45d.jpg
+wwwroot\uploads\avatars\8df4775f-e765-4018-a66b-86c6c3a9bc09.png
+wwwroot\uploads\avatars\944e09c1-b8ce-4072-9e98-b79fcd89c463.jpg
+wwwroot\uploads\avatars\974fb505-f285-49f0-8092-40fe213cc050.png
+wwwroot\uploads\avatars\ae285eeb-c11d-49ce-a1d1-f25dafe7f465.jpg
+wwwroot\uploads\avatars\be87488c-f8c8-4a07-8184-41e361e8cb2d.png
+wwwroot\uploads\avatars\c78b0d41-1f2c-416f-8d4d-f18b27dbdc59.png
+wwwroot\uploads\avatars\c81355df-d130-4241-a3fc-58df0f062a63.png
+wwwroot\uploads\avatars\d57dc071-cee3-4548-86de-d3875061b825.jpg
+wwwroot\uploads\avatars\da12e8d5-f787-4e7a-9553-64d814cb0026.png
+wwwroot\uploads\avatars\e81c0bfb-a43e-487c-9d83-5b0c81a0b39b.png
+wwwroot\uploads\avatars\e83f41c1-c16b-4f02-9e31-efa18e7b7b68.png
+wwwroot\uploads\avatars\ff63ead2-0ded-4166-ac75-94d4c684343e.png

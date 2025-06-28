@@ -1,0 +1,1065 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\bottom.css",
+      "PackagePath": "staticwebassets\\css\\bottom.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\contests.css",
+      "PackagePath": "staticwebassets\\css\\contests.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\mentors.css",
+      "PackagePath": "staticwebassets\\css\\mentors.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\page.css",
+      "PackagePath": "staticwebassets\\css\\page.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\pass.css",
+      "PackagePath": "staticwebassets\\css\\pass.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\quiz.css",
+      "PackagePath": "staticwebassets\\css\\quiz.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\quize1.css",
+      "PackagePath": "staticwebassets\\css\\quize1.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\quizzes.css",
+      "PackagePath": "staticwebassets\\css\\quizzes.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\settings.css",
+      "PackagePath": "staticwebassets\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\css\\trainingPlanL1.css",
+      "PackagePath": "staticwebassets\\css\\trainingPlanL1.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\#5-Functions.pdf",
+      "PackagePath": "staticwebassets\\files\\#5-Functions.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\#6-Maths.pdf",
+      "PackagePath": "staticwebassets\\files\\#6-Maths.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\1 - DataType and Conditions.pdf",
+      "PackagePath": "staticwebassets\\files\\1 - DataType and Conditions.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\1-Data-type && conditions.pdf",
+      "PackagePath": "staticwebassets\\files\\1-Data-type && conditions.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\2-Loops.pdf",
+      "PackagePath": "staticwebassets\\files\\2-Loops.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\3-Array.pdf",
+      "PackagePath": "staticwebassets\\files\\3-Array.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\3-Arrays 1.pptx.pdf",
+      "PackagePath": "staticwebassets\\files\\3-Arrays 1.pptx.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\4-Arrays 2.pptx.pdf",
+      "PackagePath": "staticwebassets\\files\\4-Arrays 2.pptx.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\4-Strings.pdf",
+      "PackagePath": "staticwebassets\\files\\4-Strings.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\5 - String.pdf",
+      "PackagePath": "staticwebassets\\files\\5 - String.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\6 - Functions.pdf",
+      "PackagePath": "staticwebassets\\files\\6 - Functions.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\7 - Math.pdf",
+      "PackagePath": "staticwebassets\\files\\7 - Math.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\Loops.pdf",
+      "PackagePath": "staticwebassets\\files\\Loops.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\Week  2 Blog.pdf",
+      "PackagePath": "staticwebassets\\files\\Week  2 Blog.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\Week 1  Blog.pdf",
+      "PackagePath": "staticwebassets\\files\\Week 1  Blog.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\Week 3 Blog.pdf",
+      "PackagePath": "staticwebassets\\files\\Week 3 Blog.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\Week 4 Blog.pdf",
+      "PackagePath": "staticwebassets\\files\\Week 4 Blog.pdf"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\phase1 STL.pptx",
+      "PackagePath": "staticwebassets\\files\\phase1 STL.pptx"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\files\\phase1 prefixsum & freq.pptx",
+      "PackagePath": "staticwebassets\\files\\phase1 prefixsum & freq.pptx"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\464934047_122114503466550950_8022589615150367090_n.jpg",
+      "PackagePath": "staticwebassets\\img\\464934047_122114503466550950_8022589615150367090_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\Googl.jpg",
+      "PackagePath": "staticwebassets\\img\\Googl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\ICPC.jpeg",
+      "PackagePath": "staticwebassets\\img\\ICPC.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\Icon google.jpeg",
+      "PackagePath": "staticwebassets\\img\\Icon google.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\Kareem Khaled.jpg",
+      "PackagePath": "staticwebassets\\img\\Kareem Khaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week1 v1.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week1 v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week1 v2.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week1 v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week1 v3.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week1 v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week1 v4.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week1 v4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week1 v5.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week1 v5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week1 v6.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week1 v6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week1 v7.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week1 v7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week1 v8.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week1 v8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week1 v9.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week1 v9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week2 v1.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week2 v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week2 v2.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week2 v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week2 v3.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week2 v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week2 v4.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week2 v4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week2 v5.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week2 v5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week2 v6.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week2 v6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week2 v7.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week2 v7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week3 v1.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week3 v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week3 v2.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week3 v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week3 v3.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week3 v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week3 v4.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week3 v4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week3 v5.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week3 v5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week3 v6.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week3 v6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week3 v7.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week3 v7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week3 v8.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week3 v8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week4 v1.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week4 v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week4 v2.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week4 v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week4 v3.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week4 v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week4 v4.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week4 v4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week4 v5.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week4 v5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week4 v6.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week4 v6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week5 v1.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week5 v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week5 v2.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week5 v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week5 v3.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week5 v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week5 v4.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week5 v4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week5 v5.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week5 v5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week6 v1.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week6 v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week6 v2.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week6 v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week6 v3.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week6 v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week6 v4.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week6 v4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week6 v5.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week6 v5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week6 v6.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week6 v6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\L2 week6 v7.jpg",
+      "PackagePath": "staticwebassets\\img\\L2 week6 v7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\Mohamed Anany.jpg",
+      "PackagePath": "staticwebassets\\img\\Mohamed Anany.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\Pop2.jpg",
+      "PackagePath": "staticwebassets\\img\\Pop2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\White phone app icon.jpeg",
+      "PackagePath": "staticwebassets\\img\\White phone app icon.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\_رياكشن_رياكشنات_رياكشنات_مضحكه_رياكشنز_رياكشنااااات_رياكشنات_كيبوب.mp3",
+      "PackagePath": "staticwebassets\\img\\_رياكشن_رياكشنات_رياكشنات_مضحكه_رياكشنز_رياكشنااااات_رياكشنات_كيبوب.mp3"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\f097fc74-fc57-4b6a-b0a2-652a202a93bb.jpeg",
+      "PackagePath": "staticwebassets\\img\\f097fc74-fc57-4b6a-b0a2-652a202a93bb.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\icpc 2.jpeg",
+      "PackagePath": "staticwebassets\\img\\icpc 2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\logo_and_bottom_text.png",
+      "PackagePath": "staticwebassets\\img\\logo_and_bottom_text.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\logo_without_background.png",
+      "PackagePath": "staticwebassets\\img\\logo_without_background.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\logout.jpg",
+      "PackagePath": "staticwebassets\\img\\logout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\pop-4.jpg",
+      "PackagePath": "staticwebassets\\img\\pop-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\pop-6.jpeg",
+      "PackagePath": "staticwebassets\\img\\pop-6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\pop3.jpg",
+      "PackagePath": "staticwebassets\\img\\pop3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\pop4.jpg",
+      "PackagePath": "staticwebassets\\img\\pop4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\pop6.jpg",
+      "PackagePath": "staticwebassets\\img\\pop6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\pop7.JPG",
+      "PackagePath": "staticwebassets\\img\\pop7.JPG"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\safy.jpeg",
+      "PackagePath": "staticwebassets\\img\\safy.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\sec-1.jpg",
+      "PackagePath": "staticwebassets\\img\\sec-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\sec-3.jpg",
+      "PackagePath": "staticwebassets\\img\\sec-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\sec-4.jpg",
+      "PackagePath": "staticwebassets\\img\\sec-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\sec-6.jpg",
+      "PackagePath": "staticwebassets\\img\\sec-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\sec.jpg",
+      "PackagePath": "staticwebassets\\img\\sec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\sec2-2.jpg",
+      "PackagePath": "staticwebassets\\img\\sec2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\sec2.jpg",
+      "PackagePath": "staticwebassets\\img\\sec2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\sec5.jpg",
+      "PackagePath": "staticwebassets\\img\\sec5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\wave.svg",
+      "PackagePath": "staticwebassets\\img\\wave.svg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week 2 vid 1.jpg",
+      "PackagePath": "staticwebassets\\img\\week 2 vid 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week 2 vid 2.jpg",
+      "PackagePath": "staticwebassets\\img\\week 2 vid 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week 4 vid 1.jpg",
+      "PackagePath": "staticwebassets\\img\\week 4 vid 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week 4 vid 2.jpg",
+      "PackagePath": "staticwebassets\\img\\week 4 vid 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week 5 (1).jpg",
+      "PackagePath": "staticwebassets\\img\\week 5 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week 5 (2).jpg",
+      "PackagePath": "staticwebassets\\img\\week 5 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week 5 (3).jpg",
+      "PackagePath": "staticwebassets\\img\\week 5 (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week1 vid1.jpg",
+      "PackagePath": "staticwebassets\\img\\week1 vid1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week1 vid10.jpg",
+      "PackagePath": "staticwebassets\\img\\week1 vid10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week1 vid11.jpg",
+      "PackagePath": "staticwebassets\\img\\week1 vid11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week1 vid2.jpg",
+      "PackagePath": "staticwebassets\\img\\week1 vid2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week1 vid3.jpg",
+      "PackagePath": "staticwebassets\\img\\week1 vid3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week1 vid4.jpg",
+      "PackagePath": "staticwebassets\\img\\week1 vid4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week1 vid5.jpg",
+      "PackagePath": "staticwebassets\\img\\week1 vid5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week1 vid6.jpg",
+      "PackagePath": "staticwebassets\\img\\week1 vid6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week1 vid7.jpg",
+      "PackagePath": "staticwebassets\\img\\week1 vid7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week1 vid8.jpg",
+      "PackagePath": "staticwebassets\\img\\week1 vid8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week1 vid9.jpg",
+      "PackagePath": "staticwebassets\\img\\week1 vid9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week3 vid 1.jpg",
+      "PackagePath": "staticwebassets\\img\\week3 vid 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week3 vid 2.jpg",
+      "PackagePath": "staticwebassets\\img\\week3 vid 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week3 vid 3.jpg",
+      "PackagePath": "staticwebassets\\img\\week3 vid 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week3 vid 4.jpg",
+      "PackagePath": "staticwebassets\\img\\week3 vid 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week3 vid 5.jpg",
+      "PackagePath": "staticwebassets\\img\\week3 vid 5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week3 vid 6.jpg",
+      "PackagePath": "staticwebassets\\img\\week3 vid 6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week3 vid 7.jpg",
+      "PackagePath": "staticwebassets\\img\\week3 vid 7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week6 (1).jpg",
+      "PackagePath": "staticwebassets\\img\\week6 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week6 (2).jpg",
+      "PackagePath": "staticwebassets\\img\\week6 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week6 (3).jpg",
+      "PackagePath": "staticwebassets\\img\\week6 (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week6 (4).jpg",
+      "PackagePath": "staticwebassets\\img\\week6 (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\week6 (5).jpg",
+      "PackagePath": "staticwebassets\\img\\week6 (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\welcome.jpg",
+      "PackagePath": "staticwebassets\\img\\welcome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\انت ايه اللي جابك هنا.wav",
+      "PackagePath": "staticwebassets\\img\\انت ايه اللي جابك هنا.wav"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\حسين ابراهيم.jpg",
+      "PackagePath": "staticwebassets\\img\\حسين ابراهيم.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\ربنا يريح قلبك زى ما ريحت قلبى.wav",
+      "PackagePath": "staticwebassets\\img\\ربنا يريح قلبك زى ما ريحت قلبى.wav"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\رياكشن_اللهم_صل_على_النبي_انت_جبت_ذي_المعلومات_من_وينMP3.mp3",
+      "PackagePath": "staticwebassets\\img\\رياكشن_اللهم_صل_على_النبي_انت_جبت_ذي_المعلومات_من_وينMP3.mp3"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\عايزة ايه .wav",
+      "PackagePath": "staticwebassets\\img\\عايزة ايه .wav"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\محمد عبد الوهاب.png",
+      "PackagePath": "staticwebassets\\img\\محمد عبد الوهاب.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\محمود شحود.jpg",
+      "PackagePath": "staticwebassets\\img\\محمود شحود.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\مسمعتش.wav",
+      "PackagePath": "staticwebassets\\img\\مسمعتش.wav"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\مع ألف سلامة.wav",
+      "PackagePath": "staticwebassets\\img\\مع ألف سلامة.wav"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\هجرس وفزاع.wav",
+      "PackagePath": "staticwebassets\\img\\هجرس وفزاع.wav"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\وحيتاة سيدك اللبلوبى(MP3) Music.wav",
+      "PackagePath": "staticwebassets\\img\\وحيتاة سيدك اللبلوبى(MP3) Music.wav"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\ي لهوى ايه اللى جابك تانى.wav",
+      "PackagePath": "staticwebassets\\img\\ي لهوى ايه اللى جابك تانى.wav"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\img\\ᴀᴘᴘʟᴇ ᴍᴀᴘs.jpeg",
+      "PackagePath": "staticwebassets\\img\\ᴀᴘᴘʟᴇ ᴍᴀᴘs.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\page.js",
+      "PackagePath": "staticwebassets\\js\\page.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quize1.js",
+      "PackagePath": "staticwebassets\\js\\quize1.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quize10.js",
+      "PackagePath": "staticwebassets\\js\\quize10.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quize11.js",
+      "PackagePath": "staticwebassets\\js\\quize11.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quize12.js",
+      "PackagePath": "staticwebassets\\js\\quize12.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quize2.js",
+      "PackagePath": "staticwebassets\\js\\quize2.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quize3.js",
+      "PackagePath": "staticwebassets\\js\\quize3.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quize4.js",
+      "PackagePath": "staticwebassets\\js\\quize4.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quize5.js",
+      "PackagePath": "staticwebassets\\js\\quize5.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quize6.js",
+      "PackagePath": "staticwebassets\\js\\quize6.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quize7.js",
+      "PackagePath": "staticwebassets\\js\\quize7.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quize8.js",
+      "PackagePath": "staticwebassets\\js\\quize8.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quize9.js",
+      "PackagePath": "staticwebassets\\js\\quize9.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizel2-1.js",
+      "PackagePath": "staticwebassets\\js\\quizel2-1.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizel2-10.js",
+      "PackagePath": "staticwebassets\\js\\quizel2-10.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizel2-11.js",
+      "PackagePath": "staticwebassets\\js\\quizel2-11.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizel2-12.js",
+      "PackagePath": "staticwebassets\\js\\quizel2-12.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizel2-2.js",
+      "PackagePath": "staticwebassets\\js\\quizel2-2.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizel2-3.js",
+      "PackagePath": "staticwebassets\\js\\quizel2-3.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizel2-4.js",
+      "PackagePath": "staticwebassets\\js\\quizel2-4.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizel2-5.js",
+      "PackagePath": "staticwebassets\\js\\quizel2-5.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizel2-6.js",
+      "PackagePath": "staticwebassets\\js\\quizel2-6.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizel2-7.js",
+      "PackagePath": "staticwebassets\\js\\quizel2-7.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizel2-8.js",
+      "PackagePath": "staticwebassets\\js\\quizel2-8.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizel2-9.js",
+      "PackagePath": "staticwebassets\\js\\quizel2-9.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\quizzes.js",
+      "PackagePath": "staticwebassets\\js\\quizzes.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\js\\trainingPlanL1.js",
+      "PackagePath": "staticwebassets\\js\\trainingPlanL1.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\169364a8-1500-43b9-a6da-f7494931e752.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\169364a8-1500-43b9-a6da-f7494931e752.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\29892580-e09c-4106-9897-1646be3d8e01.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\29892580-e09c-4106-9897-1646be3d8e01.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\2dac362d-d655-4e1a-a6d3-a52a5f186962.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\2dac362d-d655-4e1a-a6d3-a52a5f186962.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\3bd7f166-fb50-467d-a563-b6d2362372c8.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\3bd7f166-fb50-467d-a563-b6d2362372c8.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\42127a20-95e9-45e8-8495-9d5907fb395e.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\42127a20-95e9-45e8-8495-9d5907fb395e.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\739ef98b-854a-439e-ac16-95b58ad0ad44.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\739ef98b-854a-439e-ac16-95b58ad0ad44.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\7c135663-afb7-401c-8935-3c589e8b3b24.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\7c135663-afb7-401c-8935-3c589e8b3b24.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\829f7d97-957e-4c32-80f7-656f4c32cb41.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\829f7d97-957e-4c32-80f7-656f4c32cb41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\8451c7af-13d9-41de-b138-3e36deb6e45d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\8451c7af-13d9-41de-b138-3e36deb6e45d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\8df4775f-e765-4018-a66b-86c6c3a9bc09.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\8df4775f-e765-4018-a66b-86c6c3a9bc09.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\944e09c1-b8ce-4072-9e98-b79fcd89c463.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\944e09c1-b8ce-4072-9e98-b79fcd89c463.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\974fb505-f285-49f0-8092-40fe213cc050.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\974fb505-f285-49f0-8092-40fe213cc050.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\ae285eeb-c11d-49ce-a1d1-f25dafe7f465.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\ae285eeb-c11d-49ce-a1d1-f25dafe7f465.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\be87488c-f8c8-4a07-8184-41e361e8cb2d.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\be87488c-f8c8-4a07-8184-41e361e8cb2d.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\c78b0d41-1f2c-416f-8d4d-f18b27dbdc59.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\c78b0d41-1f2c-416f-8d4d-f18b27dbdc59.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\c81355df-d130-4241-a3fc-58df0f062a63.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\c81355df-d130-4241-a3fc-58df0f062a63.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\d57dc071-cee3-4548-86de-d3875061b825.jpg",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\d57dc071-cee3-4548-86de-d3875061b825.jpg"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\da12e8d5-f787-4e7a-9553-64d814cb0026.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\da12e8d5-f787-4e7a-9553-64d814cb0026.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\e81c0bfb-a43e-487c-9d83-5b0c81a0b39b.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\e81c0bfb-a43e-487c-9d83-5b0c81a0b39b.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\e83f41c1-c16b-4f02-9e31-efa18e7b7b68.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\e83f41c1-c16b-4f02-9e31-efa18e7b7b68.png"
+    },
+    {
+      "Id": "C:\\Users\\org\\Desktop\\tired\\tired\\tired\\wwwroot\\uploads\\avatars\\ff63ead2-0ded-4166-ac75-94d4c684343e.png",
+      "PackagePath": "staticwebassets\\uploads\\avatars\\ff63ead2-0ded-4166-ac75-94d4c684343e.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.tired.props",
+      "PackagePath": "build\\tired.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.tired.props",
+      "PackagePath": "buildMultiTargeting\\tired.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.tired.props",
+      "PackagePath": "buildTransitive\\tired.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.tired.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.tired.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,197 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = tired
+build_property.RootNamespace = tired
+build_property.ProjectDir = C:\Users\org\Desktop\tired\tired\tired\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\org\Desktop\tired\tired\tired
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Account/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Account/User.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/FinalQuiz/LevelUpQuiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmluYWxRdWl6XExldmVsVXBRdWl6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Home/Contests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250ZXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Home/Contests2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250ZXN0czIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Home/Frist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGcmlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Home/Mentors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW50b3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Home/page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Home/TrainingPlan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFpbmluZ1BsYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Home/TrainingPlan2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFpbmluZ1BsYW4yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quize1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quize10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplMTAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quize11.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplMTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quize12.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplMTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quize2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quize3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quize4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quize5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quize6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplNi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quize7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplNy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quize8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplOC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quize9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplOS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizel2_1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplbDJfMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizel2_10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplbDJfMTAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizel2_11.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplbDJfMTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizel2_12.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplbDJfMTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizel2_2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplbDJfMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizel2_3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplbDJfMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizel2_4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplbDJfNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizel2_5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplbDJfNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizel2_6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplbDJfNi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizel2_7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplbDJfNy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizel2_8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplbDJfOC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizel2_9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXplbDJfOS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXpzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/Quizes/Quizzesl2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpemVzXFF1aXp6ZXNsMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/org/Desktop/tired/tired/tired/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
